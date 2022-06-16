@@ -21,7 +21,7 @@ time, mark, audio, video {
 }
 
 
-.button1 {
+.button1{
   background-color: #33FFFE;
   border: none;
   color: rgb(0, 0, 0);
@@ -32,7 +32,7 @@ time, mark, audio, video {
   font-size: 16px;
 }
 
-.button1:hover {
+.button1:hover{
   background-color: #166a6a;
   border: none;
   color: rgb(255, 255, 255);
